@@ -2,8 +2,8 @@
 
 ## Instructions :
 
-→ Store all .mp3 in "sounds" folder
-→ Store all images in "images" folder
+1. Store all .mp3 in "sounds" folder
+2. Store all images in "images" folder
 
 ## A fun game made using :-
 1. HTML
