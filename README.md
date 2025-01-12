@@ -1,4 +1,4 @@
-# Drum-Kit-
+# Drum-Kit
 
 ## Instructions :
 
